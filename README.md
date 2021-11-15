@@ -1,2 +1,2 @@
-# Ordena-o-de-Dados
+# Ordenacao-de-Dados
 Algoritmos de ordenação utilizados: Insertion Sort, Selection Sort e Bubble Sort
