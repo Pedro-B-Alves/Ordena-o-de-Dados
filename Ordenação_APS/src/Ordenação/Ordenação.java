@@ -68,6 +68,8 @@ public class Ordenação {
 			
 			for (int i = 0; i < v.length; i++) {
 				v[i] = (int) (Math.random()*quant);
+				//v[i] = i + 1;
+				//v[i] = 100000 - i;
 			}
 			System.out.println("\nDeseja ver os números gerados?");
 			System.out.println("Digite um número:");
